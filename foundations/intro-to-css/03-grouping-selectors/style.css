@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.clickies {
+    font-size: 28px;   
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.yes {
+    background-color: rgb(9, 8, 8);
+    color: white;
+}
+
+.no {
+    background-color: rgb(237, 237, 72);
+}
